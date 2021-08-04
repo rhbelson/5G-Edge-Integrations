@@ -1,4 +1,4 @@
-# eds-terraform provider
+# eds-terraform-provider
 Custom terraform provider for the [edge discovery service](https://www.verizon.com/business/5g-edge-portal/documentation/verizon-5g-edge-discovery-service.html).
 
 ## Motivation
